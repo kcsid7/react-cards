@@ -1,0 +1,33 @@
+
+.Deck {
+    margin-top: 10rem;
+}
+
+
+.Draw-Button {
+    font-size: 2rem;
+    margin: 0 1rem;
+    padding: 1rem;
+    background-color: rgb(24, 46, 187);
+    box-shadow: 5px 5px 5px black;
+    color: rgb(229, 215, 215);
+}
+
+.Draw-Shuffle-Button {
+    font-size: 2rem;
+    margin: 0 1rem;
+    padding: 1rem;
+    background-color: rgb(187, 24, 24);
+    box-shadow: 5px 5px 5px black;
+    color: rgb(229, 215, 215);
+    border-radius: 50%;
+}
+
+.Deck-Cards {
+    margin-top: 10rem;
+}
+
+.Deck-Remaining {
+    color: white;
+    font-size: 3rem;
+}
